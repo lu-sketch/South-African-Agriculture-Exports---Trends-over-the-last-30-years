@@ -1,8 +1,7 @@
-![South African Agriculture Export Trends](./banner agri.png)
+![South African Agriculture Export Trends](./agri.png)
 
 
 # 🇿🇦 **South African Agriculture Exports: Trends Over the Last 30 Years**  
-📊 **Excel Dashboard Project**
 
 ---
 
